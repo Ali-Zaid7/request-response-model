@@ -1,6 +1,6 @@
-# request-response-model
-[Request Response model](![Screenshot 2024-12-17 092716](https://github.com/user-attachments/assets/612a4cb8-94a5-4070-8af5-4ec71a344054)
-)
+# Request-response-model
+[Screenshot 2024-12-17 092716](https://github.com/user-attachments/assets/612a4cb8-94a5-4070-8af5-4ec71a344054)
+
 
 # . Client/Frontend Sends HTTP Request:
 Client/FrontEnd: This could be a browser or any frontend application that sends a request to the server. The request can be for:
