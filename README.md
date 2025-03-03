@@ -1,8 +1,8 @@
 # Request-response-model
-![](![Uploading Screenshot 2024-12-17 092716.png…]()
+![Request Response Model](![Uploading Screenshot 2024-12-17 092716.png…]()
 )
 
-# . Client/Frontend Sends HTTP Request:
+# 1. Client/Frontend Sends HTTP Request:
 Client/FrontEnd: This could be a browser or any frontend application that sends a request to the server. The request can be for:
 Data (like fetching a web page or JSON data).
 Submitting a form.
